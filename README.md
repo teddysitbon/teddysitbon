@@ -1,7 +1,7 @@
-###  👋 Hey, bienvenue sur ma page personnelle Github
+### 👋 Hey, welcome to my personal Github page
 
-🧑‍💻 Je suis un développeur front end
+🧑‍💻 I am a passionate front end developer
 
-🌱 Tu trouveras ici quelqu'uns de mes projets
+🌱 Here you will find some of my projects
 
-📫 N'hésite pas à me contacter par mail teddysitbon@gmail.com
+📫 Do not hesitate to contact me by email teddysitbon@gmail.com
