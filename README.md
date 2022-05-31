@@ -6,4 +6,4 @@
 
 📫 Do not hesitate to contact me by email teddysitbon@gmail.com
 
-🔥 Come and discover my portfolio http://teddysitbon.netlify.app/
+🔥 Come and discover my portfolio http://teddysitbon.netlify.app
